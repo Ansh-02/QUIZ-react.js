@@ -1,0 +1,18 @@
+body {
+  background-color: #c92e2e;
+  color: #333;
+  
+}
+
+.quiz-card {
+  background-color: #339752;
+}
+
+.feedback {
+  background-color: #162119;
+  color: #155724;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  color: darkblue;
+}
